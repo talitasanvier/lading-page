@@ -18,7 +18,8 @@ html {
 
 body {
       background-color: #faf4df;
-
+    background-color: #faf4df;
+    overflow-x: hidden;
 }
 
       section {
@@ -31,6 +32,7 @@ body {
       align-items: center;
       justify-content: center;
       background-color: #f8df4d;
+
       border-radius: 12px;
       padding: 10px 14px;
       font-weight: 600;
